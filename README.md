@@ -1,4 +1,5 @@
 ### CabyMod for Lunar Client and LabyMod!
+Prounced: Saby-Mod ! Not KabyMod!!
 <sub> This is the requirements and instructions page. </sub>
 ### Release date
 This will be most likely released by 10th of June (This was previously June 4th)
