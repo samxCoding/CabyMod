@@ -3,6 +3,8 @@ Prounced: Saby-Mod ! Not KabyMod!!
 <sub> This is the requirements and instructions page. </sub>
 ### When does CabyMod release?
 This will be most likely released by 10th of June (This was previously June 4th, Sorry!)
+![Wolford](https://github.com/samxCoding/CabyMod/assets/100733048/59773eb9-74ef-4ba2-98a7-2ed1dacfe5b3)
+
 
 ## What is LabyMod?
 LabyMod is a Client Upgrader for two many used clients: LabyMod and Lunar Client!
