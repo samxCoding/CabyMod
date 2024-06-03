@@ -1,7 +1,7 @@
 ### CabyMod for Lunar Client and LabyMod!
 <sub> This is the requirements and instructions page. </sub>
 ### Release date
-This will be most likely released by 4th of June
+This will be most likely released by 10th of June (This was previously June 4th)
 
 ## Instructions
 Download the latest release, after that open the application, and now here is what you should do:
@@ -12,4 +12,4 @@ If you do NOT recieve sh2 or sh1 your console/client has officially crashed. Don
 ## Requirements
 A valid client 
 Lunar Client or LabyMod,
-Laby mod isn't supported yet!
+LabyMod isn't supported yet!
