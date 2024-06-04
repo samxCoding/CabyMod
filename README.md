@@ -7,8 +7,8 @@ This will be most likely released by 10th of June (This was previously June 4th,
 ![Wolford](https://github.com/samxCoding/CabyMod/assets/100733048/59773eb9-74ef-4ba2-98a7-2ed1dacfe5b3)
 
 
-## What is LabyMod?
-LabyMod is a Client Upgrader for two many used clients: LabyMod and Lunar Client!
+## What is CabyMod?
+CabyMod is a Client Upgrader for two many used clients: LabyMod and Lunar Client!
 It's also very simple to install, since it's just in a terminal!
 
 ## How do I install CabyMod?
