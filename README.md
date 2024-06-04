@@ -44,5 +44,5 @@ The official CabyMod.jar is most likely in it's first version.
 ## What are the benefits using this client?
 Insane FPS boost, averaging around 500+ FPS on a INTEL MacBook. (Notice, CabyMod is made for MacOS only.)
 Faster Mods ! | The mods on Lunar Client or LabyMod(Laby's Widgets) will barely impact your FPS!
-Optimized Sodium | Sodium is just going to be Sodium's original rendering, but with CabyMod, the client will just look for Sodiums **Main File** to make it faster!
+Optimized Sodium | Sodium is just going to be Sodium's original rendering, but with CabyMod, the client will just look for Sodiums **Main File** to make it faster! [Notice this makes it faster
 
