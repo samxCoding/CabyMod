@@ -1,4 +1,4 @@
-# CabyMod for Lunar Client and LabyMod!
+# CabyMod 
 Prounced: Saby-Mod ! Not KabyMod!!
 **THIS IS ONLY FOR MacOS!**
 <sub> This is the requirements and instructions page. </sub>
@@ -8,31 +8,33 @@ This will be most likely released by 7th of June (This was previously June 4th, 
 
 
 ## What is CabyMod?
-CabyMod is a Client Upgrader for two many used clients: LabyMod and Lunar Client!
+CabyMod is a Fabric Mod that goes into Fabric's Mod Loader Folder: mods
 It's also very simple to install, since it's just in a terminal!
 
+
 ## How do I install CabyMod?
-Download the latest release, after that open the application, and now here is what you should do:
-IDN means Lunar Client's or LabyMod's name. It's normally Lunar Client.app or LabyMod Launcher.app
-sh2: is a valid process!
-If you do NOT recieve sh2 or sh1 your console/client has officially crashed. Don't worry just wait until it finishes and try again!
+First put the Minecraft Launcher app in the same folder as the application,
+After that once opening the application, you need to wait then once it's ready your able to type. Then type this command:
+```
+Minecraft Launcher
+```
+or just type the name of the application.
+When you do that, it should start analizing the Launcher and modifing configs in Minecraft Launcher
 ## Do I look out for anything?
 Yes, if your process says [BUILD COMPLETE] The build was sucessfully completed.
 If it says [BUILD FAILED] then relaunch the application, if you don't lunar client will have more crashes(some incidents its okay)
 A problem one is [JAVA BUILD FAILED], this means something happened to the following:
   | You selected a version lower then 1.15 (1.8.9 still works)
-  | Might have selected Optifine + Lunar (Please use Fabric + Lunar)
   | To much texture packs selected (Don't use more then 25 Resource Packs)
   | Java is not working correctly (Reinstall a newer or same Java version)
-  | Non-Stable Lunar Client/LabyMod application (Try reinstalling LabyMod or Lunar Client)
 <sup> That is all the sollutions and problems! </sup>
 
 ## What do I need for CabyMod?
-A valid client 
-Lunar Client or LabyMod,
-LabyMod isn't supported yet!
-Java Installed, no OpenJDK needed.
-Lunar Client can be cracked, do **NOT** try to use a cracked account, as your pc can get a solid crash.
+Minecraft Launcher
+Essentials Mod ( Use the Essentials Mod Installation for better loading)
+Sodium, Exordium, Phorshor and Reese's Sodium Options (Reese's Sodium Options is totally optional, we will just use our config)
+Depending on your version, it can impact your fps on your version.
+
 
 ## What to expect? What will be on my computer?
 Your computer will be installing the following:
@@ -41,9 +43,3 @@ Your computer will be installing the following:
 ```
 The official CabyMod.jar is most likely in it's first version.
 ```
-
-## What are the benefits using this client?
-Insane FPS boost, averaging around 500+ FPS on a INTEL MacBook. (Notice, CabyMod is made for MacOS only.)
-Faster Mods ! | The mods on Lunar Client or LabyMod(Laby's Widgets) will barely impact your FPS!
-Optimized Sodium | Sodium is just going to be Sodium's original rendering, but with CabyMod, the client will just look for Sodiums **Main File** to make it faster! [Notice this makes it faster
-
